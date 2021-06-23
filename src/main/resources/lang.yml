@@ -1,0 +1,12 @@
+prefix: "&6&laGamemodes &8» &f"
+noperms: "{prefix} &cNo tienes permisos suficientes."
+onlyplayer: "{prefix} &cEste comando solo puede ser ejecutado por un jugador."
+playeroffline: "{prefix} &cEse jugador no está conectado."
+usage: "{prefix} &cEl uso correcto del comando es: &4/gamemode <0/1/2/3> [jugador]"
+changed: "{prefix} &fTu modo de juego ha sido cambiado &fa &d{mode}&f."
+changedother: "{prefix} &fHas cambiado &fel modo de juego de &5&l{player} &fa &d{mode}&f."
+modes:
+  survival: "survival"
+  creative: "creativo"
+  adventure: "aventura"
+  spectator: "espectador"

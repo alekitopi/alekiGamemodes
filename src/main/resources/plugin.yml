@@ -1,0 +1,8 @@
+name: alekiGamemodes
+version: 1
+main: es.alekitopi.alekigamemodes.Main
+commands:
+  gamemode:
+    description: Cambia tu modo de juego fácilmente.
+    usage: /<command> (modo) [jugador]
+    aliases: [gm]

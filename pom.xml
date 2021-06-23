@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>es.alekitopi</groupId>
-    <artifactId>alekicore</artifactId>
+    <artifactId>alekigamemodes</artifactId>
     <version>1</version>
     <packaging>jar</packaging>
 
-    <name>alekiCore</name>
+    <name>alekiGamemodes</name>
 
     <properties>
         <java.version>1.8</java.version>
